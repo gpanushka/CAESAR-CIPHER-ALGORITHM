@@ -1,6 +1,6 @@
-# PRODIGY_CS_01
+# Caesar Cipher Algorithm
 
-This is my first task as a Cyber Security Intern at Prodigy InfoTech where I was supposed o create a python program that can encrypt and decrypt text using the Caesar Cipher Algorithm.
+I created a python program that can encrypt and decrypt text using the Caesar Cipher Algorithm.
 
 I have used resources like Visual Studio Code as the text editor and used internet resources for debugging.
 The code for this task was carried out in four steps as below : 
